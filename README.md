@@ -43,6 +43,8 @@ começar a utilizá-lo no meu dia a dia.
       Durante o meu estágio na <strong>Quina Ribeiro Lda</strong>, tive a oportunidade de aprender sobre <strong>APIs</strong> e <strong>Desenvolvimento Web</strong>.  
       Trabalhei em projetos que envolviam <strong>HTML, CSS, JavaScript</strong> e <strong>back-end com Node.js, Express.js e MySQL</strong>.  
       Este estágio ajudou-me a compreender melhor o fluxo de trabalho numa empresa de tecnologia em ambiente remoto e a melhorar as minhas habilidades na área.
+      ##### Estagiário Web Developer
+      ###### jan de 2025 - fev de 2025 · 2 meses
     </td>
     <td width="30%" align="center">
       <a href="https://quinaribeiro.com" target="_blank">
