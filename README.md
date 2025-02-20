@@ -28,7 +28,7 @@ começar a utilizá-lo no meu dia a dia.
 ---
 
 ##  Estatísticas do GitHub
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DiogoFilipeMartins&show_icons=true&theme=dark&hide_border=true" width="400px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiogoFilipeMartins&theme=dark&hide_border=true" width="400px"/>
 </p>
@@ -39,19 +39,22 @@ começar a utilizá-lo no meu dia a dia.
 
 <table>
   <tr>
-    <td width="70%">
-      Durante o meu estágio na <strong>Quina Ribeiro Lda</strong>, tive a oportunidade de aprender sobre <strong>APIs</strong> e <strong>Desenvolvimento Web</strong>.  
-      Trabalhei em projetos que envolviam <strong>HTML, CSS, JavaScript</strong> e <strong>back-end com Node.js, Express.js e MySQL</strong>.  
-      Este estágio ajudou-me a compreender melhor o fluxo de trabalho numa empresa de tecnologia em ambiente remoto e a melhorar as minhas habilidades na área.
-      ##### Estagiário Web Developer
-      ###### jan de 2025 - fev de 2025 · 2 meses
-    </td>
-    <td width="30%" align="center">
-      <a href="https://quinaribeiro.com" target="_blank">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjebnQooDNc_eGU4e62CSFMFBBwNuDM3m8Rg&s" 
-             alt="Quina Ribeiro Lda" width="140px" 
-             style="border-radius: 10px; box-shadow: 3px 3px 10px rgba(0,0,0,0.2);"/>
-      </a>
+    <td width="100%">
+      <h3 align="left"><a href="https://quinaribeiro.com" target="_blank"><strong>Quina Ribeiro Lda</strong></a></h3>
+      <h5 align="left">Estagiário Dev Fullstack</h5>
+      <h6 align="left">Jan de 2025 - Fev de 2025 · 2 meses</h6>
+      <br/>
+      <div with="50%" align="left" >
+      Durante o meu estágio na Quina Ribeiro Lda, 
+      tive a oportunidade de aprender sobre <strong>APIs</strong> e <strong>Desenvolvimento Web</strong>.  
+      Trabalhei em projetos que envolviam <strong>HTML, CSS, JavaScript</strong> e 
+      <strong>back-end com Node.js, Express.js e MySQL</strong>.  
+      Este estágio ajudou-me a compreender melhor o fluxo de trabalho numa empresa de tecnologia em ambiente remoto 
+      e a melhorar as minhas habilidades na área.
+      </div>
+      <br/>
     </td>
   </tr>
 </table>
+
+
