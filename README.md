@@ -7,7 +7,7 @@
 ---
 
 ## Sobre mim
-Olá! O meu nome é **Diogo Martins**, tenho **16 anos** e sou um programador fullstack apaixonado por desenvolvimento web.  
+Olá! O meu nome é **Diogo Martins**, tenho **17 anos** e sou um programador fullstack apaixonado por desenvolvimento web.  
 Atualmente, estou a estudar e a explorar o mundo da programação para criar projetos e aprender cada vez mais! 
 Após o meu primeiro estágio percebi que o Github poderia ter sido uma grande ajuda para perceber o meu progresso, então, vou
 começar a utilizá-lo no meu dia a dia.
