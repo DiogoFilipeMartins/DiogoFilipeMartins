@@ -30,7 +30,7 @@ começar a utilizá-lo no meu dia a dia.
 ##  Estatísticas do GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DiogoFilipeMartins&show_icons=true&theme=dark&hide_border=true" width="400px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiogoFilipeMartins&theme=dark&hide_border=true" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoFilipeMartins&layout-compact&langs_count-16&theme=dark&hide_border=true" width="400px"/>
 </p>
 
 ---
